@@ -1,0 +1,20 @@
+{
+  "dependencies": {},
+  "description": "react StaticContainer",
+  "devDependencies": {},
+  "directories": {},
+  "keywords": [
+    "react-component",
+    "ios",
+    "android",
+    "static container"
+  ],
+  "license": "MIT",
+  "main": "./StaticContainer",
+  "name": "@cross2d/static-container",
+  "scripts": {
+    "release": "npm publish --access public"
+  },
+  "version": "1.0.0",
+  "author": "Colin3dmax"
+}
